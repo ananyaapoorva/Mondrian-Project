@@ -1,6 +1,8 @@
 # Mondrian-Project
 A pixel-precise recreation of a Piet Mondrian-style composition, built entirely with **CSS Grid** — no absolute positioning, no flexbox tricks.
 
+https://ananyaapoorva.github.io/Mondrian-Project/
+
 ## Goal
 The following is the Piet Mondrian-style composition:
 <img width="3024" height="1730" alt="image" src="https://github.com/user-attachments/assets/6cd4671d-ca35-425a-b4d9-4db5f32f0033" />
